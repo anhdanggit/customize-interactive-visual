@@ -1,4 +1,6 @@
 # CUSTOMIZING VISUALIATION IN PYTHON
+### By: Anh Dang
+#### My 5th Week of Learning Python, 07 Nov. 2017
 ---
 This is a part of my trainings in the **Coursera Specilization in Applied Data Science** by the Univerisity of Michigan.
 Due to the variety of tasks in real-life worlds, frequently the basic plots and templates are not enough. 
@@ -24,3 +26,17 @@ I make an more advanced visualization:
 ![alt text](https://github.com/maianhdang/customize_visual/blob/master/results/interactivity.gif)
 * As a bonus, I made an animation for the changes of reference line
 ![alt text](https://github.com/maianhdang/customize_visual/blob/master/results/animation.gif)
+
+### Pratices in My Very First Stage of Learning Python
+
+Exercises to get the sense of coding in Python.
+
+People say: "Hard-work pays-off", my aspiration is turning programming to a daily exercise to improve myself. 
+This is a sets of exercises and assignments I have worked on in my first stage of using Python in working with data. 
+
+Most of them are parts from the course ["Introduction to Data Science in Python"](https://www.coursera.org/learn/python-data-analysis/home/welcome) by the University of Michigan on Coursera. 
+
+I have received the best support and explanation from these sources, yet programming might be a great example of team-work, but also a polygon of self-discipline, self-motivated, and self-learning process.
+I am thankful for the inspirations and sharings available in Stack Overflow, Google, Youtube, in general the Internet that enable me to fill the gaps in my understandings. 
+
+To "Pay-it-forward" and also as my dairy of programming journey, I create this collections.
