@@ -21,5 +21,6 @@ The plot is tried to follow the below criteria:
 I make an more advanced visualization: 
 * Bar coloring folows the scale: dark blue for the distribution being certainly below this y-axis, to white if the value is certainly contained, to dark red if the value is certainly not contained
 * Users can interactively choose the y-axis reference line
+![alt text](https://github.com/maianhdang/customize_visual/blob/master/results/interactivity.gif)
 * As a bonus, I made an animation for the changes of reference line
 ![alt text](https://github.com/maianhdang/customize_visual/blob/master/results/animation.gif)
